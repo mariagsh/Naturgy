@@ -1,4 +1,4 @@
-# Naturgy
+# AI for Business Forecasting in Energy Sector
 Collaborative project with Naturgy, a multinational company in the energy sector.
 
 The contractual project consists of a model that predicts the activity in the horizon of the current Strategic Plan (3-5 years) based on data on commercial activity rates, expected portfolio increases, churn rate, sales channel mix, unit costs per channel, etc.  
